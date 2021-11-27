@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "split-type": "^0.2.5",
+    "splitting": "^1.0.6"
+  }
+}
